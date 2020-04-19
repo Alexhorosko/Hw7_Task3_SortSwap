@@ -15,6 +15,10 @@
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
+			<sonar.projectKey>Alexhorosko_Hw7_Task3_SortSwap</sonar.projectKey>
+			<sonar.organization>alexhorosko</sonar.organization>
+			<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+			<sonar.login>2321b1b9e6fef93c2c2c58ab13579ebd8372e29a</sonar.login>
 		<java.version>1.8</java.version>
 	</properties>
 
